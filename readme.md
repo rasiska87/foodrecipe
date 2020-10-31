@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/17819874/79853717-5db2f900-8403-11ea-99ba-ed0bb3cdb9ef.png" height="100"/>
 
-
+# 계절별 음식 추천 리스트 (다음 검색 포털 활용)
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ohahohah/readme-template/graphs/commit-activity) 
